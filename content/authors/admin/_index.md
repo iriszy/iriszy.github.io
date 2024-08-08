@@ -9,10 +9,6 @@ name_pronunciation: Chien Shiung Wu
 first_name: Shiung Wu
 last_name: Chien
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
