@@ -170,7 +170,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Welcome!
+## Heads up! This site is still under construction, and some info is just placeholder content. The real me will be here soon!
 
 I am a PhD candidate specializing in Comparative Political Economy and Political Methodology at MIT. My research interests include authoritarian politics, state-business relations, and social welfare.
 
